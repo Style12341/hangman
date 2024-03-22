@@ -1,0 +1,19 @@
+--- !ruby/object:Hangman
+word: button
+word_length: 6
+word_display:
+- _
+- u
+- _
+- _
+- o
+- _
+guesses:
+- a
+- e
+- i
+- o
+- u
+- c
+- l
+lives: 1
